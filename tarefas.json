@@ -1,0 +1,30 @@
+[
+  {
+    "tarefa": "Escrever uma ideia nova",
+    "prioridade": "Alta"
+  },
+  {
+    "tarefa": "Fazer alongamento",
+    "prioridade": "Baixa"
+  },
+  {
+    "tarefa": "Lavar a louça",
+    "prioridade": "Baixa"
+  },
+  {
+    "tarefa": "Organizar a mesa",
+    "prioridade": "Baixa"
+  },
+  {
+    "tarefa": "Fazer alongamento",
+    "prioridade": "Alta"
+  },
+  {
+    "tarefa": "Descansar 10 minutos",
+    "prioridade": "Média"
+  },
+  {
+    "tarefa": "Revisar código antigo",
+    "prioridade": "Baixa"
+  }
+]
