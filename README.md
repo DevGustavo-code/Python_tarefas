@@ -1,34 +1,55 @@
-Gerador de Tarefas Aleatórias
+<h1 align="center">Gerador de Tarefas Aleatórias</h1>
 
-Este projeto é um gerador simples de tarefas desenvolvido em Python.
-O programa cria tarefas aleatórias com diferentes níveis de prioridade e salva tudo em um arquivo tarefas.json, permitindo que o usuário acompanhe, liste ou limpe as tarefas sempre que quiser.
+<p align="center">
+  Mini-projeto em <strong>Python</strong> que gera tarefas aleatórias com níveis de prioridade e salva tudo em <code>tarefas.json</code>.
+  Ideal para testar manipulação de arquivos JSON, geração randômica e CLI simples.
+</p>
 
-Funcionalidades
+<hr>
 
-Geração automática de tarefas aleatórias.
+<h2>🧩 Funcionalidades</h2>
+<ul>
+  <li>Geração automática de tarefas aleatórias</li>
+  <li>Atribuição de prioridade: <strong>Baixa</strong>, <strong>Média</strong> ou <strong>Alta</strong></li>
+  <li>Salvamento automático em arquivo <code>tarefas.json</code></li>
+  <li>Exibição da lista completa de tarefas</li>
+  <li>Opção para limpar todas as tarefas salvas</li>
+  <li>Interface simples e direta no terminal</li>
+</ul>
 
-Atribuição de prioridade (Baixa, Média ou Alta).
+<hr>
 
-Salvamento automático em arquivo JSON.
+<h2>🛠️ Tecnologias utilizadas</h2>
+<ul>
+  <li><strong>Python 3</strong></li>
+  <li>Módulos nativos:
+    <code>random</code>, <code>json</code>, <code>os</code>
+  </li>
+</ul>
 
-Exibição da lista completa de tarefas.
+<hr>
 
-Opção para limpar todas as tarefas salvas.
+<h2>▶️ Como executar</h2>
+<ol>
+  <li>Verifique se o <strong>Python 3</strong> está instalado.</li>
+  <li>Clone ou baixe o repositório para sua máquina.</li>
+  <li>No terminal, entre na pasta do projeto e execute:</li>
+</ol>
 
-Interface simples no terminal.
+<pre><code>python task_generator.py</code></pre>
 
-Tecnologias utilizadas
+<p>
+  Ao rodar, o programa criará/atualizará o arquivo <code>tarefas.json</code>. Utilize as opções do próprio script para listar ou limpar tarefas.
+</p>
 
-Python 3
+<hr>
 
-Módulos nativos: random, json e os
+<h2>📎 Estrutura sugerida do repositório</h2>
+<pre><code>
+Gerador-de-Tarefas-Aleatorias/
+├─ task_generator.py
+├─ tarefas.json  (gerado automaticamente)
+└─ README.md
+</code></pre>
 
-Como executar
-
-Instale o Python 3.
-
-Baixe o arquivo do projeto.
-
-Execute no terminal:
-
-python task_generator.py
+<hr>
