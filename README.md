@@ -53,3 +53,4 @@ Gerador-de-Tarefas-Aleatorias/
 </code></pre>
 
 <hr>
+<img width="338" height="329" alt="image" src="https://github.com/user-attachments/assets/aa15a62e-d7c0-436c-88cf-a386d355d919" />
